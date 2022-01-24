@@ -1,0 +1,114 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font: bold 20px verdana, sans-serif;
+}
+h2{
+	font:bold 14px verdana, sans-serif;
+}
+header, section, footer, aside, article, figure,  figcaption, hgroup{
+	display: block;
+}
+body{
+	text-align: center;
+}
+#Contenido{
+	width: 960px;
+	margin: 15px;
+	text-align: left;
+}
+#titulo{
+	font-size: 60px;
+	background: #CCCCFF;
+	border: 5px solid #660099;
+	padding: 20px;
+	border-radius: 30px;
+	color: #FF0066;
+	text-shadow: 18px 10px 15px #00FFFF;
+	text-align: center;
+	box-shadow: 0px 0px 15px #CC99CC, 20px 20px 15px #CC99CC inset;
+}
+#subtitulo{
+	font-size: 14px;
+}
+#navegacion{
+	background: #CCFFFF;
+	padding: 12px 20px;
+	margin-top: 10px;
+}
+#menu a{
+	border: 2px solid #FF66FF;
+	background: #CCCCCC;
+	color: #FFFFFF;
+	border-radius: 10px;
+	width: 290px;
+	box-shadow: 5px 5px 3px #FF99CC, 5px 5px 5px #FF99CC inset;
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	font: bold 15px verdana, sans-serif;
+	text-align: center;
+}
+#Reseña{
+	color: #9900CC;
+	text-shadow: 5px 5px 15px #9900FF;
+	padding: 5PX;
+}
+#seccion{
+	padding: 8px;
+	text-align: justify;
+	float: left;
+	width: 660px;
+	margin: 20px;
+	margin-left: 0px;
+	background: #FFCCCC;
+	clear: left;
+}
+#lateral{
+	float: left;
+	width: 230px;
+	margin: 20px 0px;
+	margin-left: 0px;
+	padding: 15px;
+	background: #CCCCCC;
+	text-align: justify;
+	box-shadow: 0px 0px 15px #FF33FF, 0px 10px 15px #FF00FF inset;
+}
+#Boton{
+	border: 2px solid #FF66FF;
+	background: #CCCCCC;
+	color: #FFFFFF;
+	border-radius: 10px;
+	width: 200px;
+	box-shadow: 5px 5px 3px #FF99CC, 5px 5px 5px #FF99CC inset;
+	display: inline-block;
+	list-style: none;
+	padding: 20px;
+	font: bold 15px verdana, sans-serif;
+	text-align: center;
+}
+#pie{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	border-top: 5px solid #66FFFF;
+}
+#Utopy{
+	margin: 10px;
+	width: 213px;
+	height: 188px;
+}
+#Utopia{
+	margin: 10px;
+	width: 230px;
+	height: 190px;
+	float: center;
+}
+#Opinion{
+	padding: 5px;
+	width: 640px;
+	height: 70px;
+	float: center;
+}
